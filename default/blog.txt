@@ -1,8 +1,0 @@
-VERSION: 1.8
-BUILD_TIME: 2025-12-14 20:23:21 IST
-COMMIT_ID: 9baaa3dd539898750ea1fe7ae261f3e34d8dbcae
-AUTHOR: Braghadeesh005
-AUTHOR MAIL: braghadeesh005@gmail.com
-BRANCH: main
-ZIP_NAME: dac_server.zip
-ZIP_SIZE: 92K
